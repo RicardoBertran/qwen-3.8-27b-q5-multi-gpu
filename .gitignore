@@ -1,0 +1,6 @@
+work/
+outputs/
+artifacts/
+*.gguf
+*.log
+.env
