@@ -1,0 +1,2 @@
+modelo,cuantizacion,gpu_0,gpu_0_vram_gb,gpu_1,gpu_1_vram_gb,contexto_tokens,mtp,prompt_processing_tok_s,generacion_tok_s,salida_tokens,duracion_segundos
+Qwen 3.8 27B,Q5,NVIDIA GeForce RTX 5070,12,NVIDIA GeForce RTX 5060 Ti,16,131072,activado,618.63,29.7,8192,276
