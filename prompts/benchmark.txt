@@ -1,0 +1,5 @@
+Responde en español y sin explicar estas instrucciones.
+
+Escribe una guía técnica extensa y autosuficiente para desplegar un modelo de lenguaje local con llama.cpp. Debe cubrir instalación, formatos GGUF, cuantización, cálculo de memoria, contexto largo, caché KV, reparto multi-GPU, procesamiento del prompt, generación de tokens, MTP, monitorización, metodología de benchmark, solución de errores, seguridad, privacidad y reproducibilidad.
+
+Organiza el contenido en secciones claras, incluye ejemplos y explica los compromisos de cada decisión. Continúa desarrollando la guía hasta alcanzar el límite de salida configurado; no termines antes con un resumen breve.
